@@ -1,2 +1,4 @@
 this is line1 thata added in master
 this is line2 thata added in master
+added 3rd line in master
+added 4th line in master
